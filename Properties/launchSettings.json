@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DoubleForLoop": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
